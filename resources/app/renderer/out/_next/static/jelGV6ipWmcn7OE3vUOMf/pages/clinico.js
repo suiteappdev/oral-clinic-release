@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["dbfa"],{"2IbW":function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/clinico",function(){var n=w("4cgL");return{page:n.default||n}}])},"4cgL":function(n,o){}},[["2IbW","5d41"]]]);
