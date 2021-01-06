@@ -37,7 +37,7 @@
     "@zeit/next-css": "^1.0.1",
     "ajv": "^6.6.1",
     "aperture": "^5.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "base64-img": "^1.0.4",
     "classnames": "^2.2.6",
     "clsx": "^1.0.4",
